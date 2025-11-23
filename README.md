@@ -1,0 +1,1 @@
+Este projeto implementa dois métodos para multiplicação de matrizes: método ingênuo e método de Strassen, com o objetivo de comparar as duas abordagens e entender a estrutura do algoritmo de Strassen.
